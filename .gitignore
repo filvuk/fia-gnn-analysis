@@ -1,0 +1,6 @@
+*.png
+.ipynb_checkpoints/
+FIA49k.csv
+FIA49k/*
+FIA49k_fia_gnn_embeddings.csv
+FIA49k_predictions.csv
